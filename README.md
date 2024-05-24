@@ -6,7 +6,7 @@ Nature Neuroscience 2024
 
 The data associated with the publication can be downloaded here:
 
-XXX
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11282437.svg)](https://doi.org/10.5281/zenodo.11282437)
 
 The data repository contains the source data for all figures as well as the processed data that can be used to rerun most analyses (a small subset requires access to raw data).
 The raw data is too extensive to be published online, but is available upon request.
